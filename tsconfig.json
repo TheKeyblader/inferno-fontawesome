@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "jsx": "preserve",
+        "module": "commonjs",
+        "sourceMap": true,
+        "inlineSources": true,
+        "noUnusedParameters": true,
+        "preserveConstEnums": true,
+        "target": "es6"
+    }
+}

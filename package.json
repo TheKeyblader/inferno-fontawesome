@@ -1,0 +1,17 @@
+{
+    "peerDependencies": {
+        "inferno": ">=4.0.0",
+        "@fortawesome/fontawesome-svg-core": "^1.2.0-7"
+    },
+    "devDependencies": {
+        "@fortawesome/fontawesome-svg-core": "1.2.4",
+        "@fortawesome/free-solid-svg-icons": "5.3.1",
+        "fuse-box": "3.5.0",
+        "typescript": "3.1.1",
+        "inferno": "5.6.1",
+        "uglify-es": "3.3.9",
+        "uglify-js": "3.4.9",
+        "ts-transform-inferno": "3.0.1",
+        "inferno-devtools": "5.6.1"
+    }
+}
